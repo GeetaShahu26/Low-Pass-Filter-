@@ -8,7 +8,7 @@ This project focuses on the design of a **4th order active low-pass filter** usi
 ## ⚙️ Specifications
 
 - **Filter Type:** 4th Order Low Pass Filter  
-- **Cutoff Frequency (fc):** 5 kHz  
+- **Cutoff Frequency (fc):** 12 kHz  
 - **Capacitor (C):** 0.1 µF  
 - **Implementation:** Active (Op-Amp Based)
 
